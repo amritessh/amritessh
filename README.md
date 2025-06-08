@@ -128,6 +128,47 @@ A Django-based blog application showcasing full-stack development skills with Py
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amritessh&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
 </div>
 
+## 📄 Resume
+
+<div align="center">
+  
+### Download My Resume
+  
+<a href="https://github.com/amritessh/amritessh/blob/main/Amritesh_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF" />
+</a>
+
+<a href="https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_FILE_ID/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Google Drive" />
+</a>
+
+<!-- Option to embed resume preview -->
+<details>
+<summary><b>📋 Quick Resume Preview</b></summary>
+
+### Education
+- 🎓 **[Your Degree]** - [University Name] (Year)
+- 📚 Relevant Coursework: Data Structures, Algorithms, Machine Learning, Web Development
+
+### Experience
+- 💼 **[Job Title]** at [Company] (Duration)
+  - Key achievement 1
+  - Key achievement 2
+
+### Skills
+- **Languages**: Python, JavaScript, Java, C++, MATLAB
+- **Frameworks**: Django, React, Node.js, Flask
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, AWS, Machine Learning
+
+### Certifications
+- 🏆 [Certification Name] - [Issuing Organization]
+- 🏆 [Certification Name] - [Issuing Organization]
+
+</details>
+
+</div>
+
 ## 🤝 Connect with Me
 
 <div align="center">
