@@ -132,19 +132,19 @@ A Django-based blog application showcasing full-stack development skills with Py
 
 <div align="center">
   
-### Download My Resume
-  
+
 <a href="https://github.com/amritessh/amritessh/blob/main/Amritesh_Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF" />
+  <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
 </a>
-
-<a href="https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_FILE_ID/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Google Drive" />
+<br><br>
+<!-- Resume Preview -->
+<a href="https://github.com/amritessh/amritessh/blob/main/Amritesh_Resume.pdf">
+  <img src="https://github.com/amritessh/amritessh/blob/main/resume_preview.png" alt="Resume Preview" width="600" />
 </a>
-
-<!-- Option to embed resume preview -->
-<details>
-<summary><b>📋 Quick Resume Preview</b></summary>
+</div># Hi there, I'm Amritesh! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 ### Education
 - 🎓 **[Your Degree]** - [University Name] (Year)
