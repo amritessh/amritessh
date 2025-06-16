@@ -156,14 +156,12 @@ A Django-based blog application showcasing full-stack development skills with Py
   - Key achievement 2
 
 ### Skills
-- **Languages**: Python, JavaScript, Java, C++, MATLAB
-- **Frameworks**: Django, React, Node.js, Flask
+- **Languages**: Python, JavaScript, Java, C++,
+- **Frameworks**: React, Node.js, Spring Boot
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, AWS, Machine Learning
+- **Tools**: Git, Docker, Machine Learning
 
-### Certifications
-- 🏆 [Certification Name] - [Issuing Organization]
-- 🏆 [Certification Name] - [Issuing Organization]
+
 
 </details>
 
@@ -176,10 +174,8 @@ A Django-based blog application showcasing full-stack development skills with Py
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritessh)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amritessh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritessh)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/amritessh)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amritessh)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amritessh)
 
 </div>
@@ -187,26 +183,17 @@ A Django-based blog application showcasing full-stack development skills with Py
 ## 📅 Schedule a Meeting
 
 <div align="center">
-  <a href="https://calendly.com/amriteshanand7/30min">
+  <a href="https://calendly.com/amritessh/30min">
     <img src="https://img.shields.io/badge/Schedule_a_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Meeting" />
   </a>
   
   <br><br>
   
-  <a href="https://calendly.com/amriteshanand7/30min">
+  <a href="https://calendly.com/amritessh/30min">
     <img src="https://img.shields.io/badge/Book_Time_With_Me-00A2FF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
   </a>
 </div>
 
-## 📧 Contact Me
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-phone-number)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amritessh)
-
-</div>
 
 ## 📌 Fun Facts
 
